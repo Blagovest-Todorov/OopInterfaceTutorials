@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.exe
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.deps.json
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.dll
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\bin\Debug\netcoreapp3.1\28.OopInterfaceTuition.pdb
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.dll
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.pdb
+C:\Users\Bla\source\repos\OOP\28.OopInterfaceTuition\obj\Debug\netcoreapp3.1\28.OopInterfaceTuition.genruntimeconfig.cache
